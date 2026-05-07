@@ -1,0 +1,51 @@
+age_group,contact_mode,reports,amount_lost
+18 - 24,Email,1391,1184219.8399999999
+18 - 24,In person,155,131631.22
+18 - 24,Mail,98,14224.19
+18 - 24,Online,3270,7532788.75
+18 - 24,Phone call,1255,5827496.28
+18 - 24,Text message,1572,1157556.23
+25 - 34,Email,3325,2837317.91
+25 - 34,In person,384,2999061.21
+25 - 34,Mail,226,157285.62
+25 - 34,Online,5566,15668660.34
+25 - 34,Phone call,3494,3988765.24
+25 - 34,Text message,2528,2108536.54
+35 - 44,Email,4481,7376473.61
+35 - 44,In person,403,3268987.81
+35 - 44,Mail,325,297863.25
+35 - 44,Online,6741,20612935.71
+35 - 44,Phone call,4666,5825254.69
+35 - 44,Text message,2938,3234388.55
+45 - 54,Email,6796,8700633.290000001
+45 - 54,In person,288,4607654.04
+45 - 54,Mail,339,435486.02
+45 - 54,Online,5236,25528683.83
+45 - 54,Phone call,4543,8588841.82
+45 - 54,Text message,2980,3154237.25
+55 - 64,Email,11390,10233794.53
+55 - 64,In person,267,4615583.35
+55 - 64,Mail,324,559786.4400000001
+55 - 64,Online,4104,21954064.24
+55 - 64,Phone call,3899,14255153.18
+55 - 64,Text message,3151,2864315.36
+55 - 64,unspecified,6,0.0
+65 and over,Email,27350,14946442.1
+65 and over,In person,262,7577764.890000001
+65 and over,Mail,557,563660.41
+65 and over,Online,4055,36223334.12
+65 and over,Phone call,5241,22814046.47
+65 and over,Text message,4187,1893362.94
+Under 18,Email,179,17376.6
+Under 18,In person,21,13069.95
+Under 18,Mail,18,1986.78
+Under 18,Online,774,208931.09
+Under 18,Phone call,176,42593.520000000004
+Under 18,Text message,371,40856.82
+Unspecified,Email,25196,9435741.11
+Unspecified,In person,680,675219.45
+Unspecified,Mail,771,571523.77
+Unspecified,Online,10114,17566995.32
+Unspecified,Phone call,11901,6267067.61
+Unspecified,Text message,9304,2320450.28
+Unspecified,unspecified,8,94.74

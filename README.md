@@ -3,7 +3,7 @@
 ## Project Contact Information
 * **Name:** Aryan Goel
 * **Student ID:** 26040826
-* **Student Email:** Aryan.goel-1@student.uts.edu.au
+* **Student Email:** Aryan.Goel-1@student.uts.edu.au
 
 ---
 
